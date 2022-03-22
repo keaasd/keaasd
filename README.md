@@ -5,5 +5,7 @@
 ### Со мной можно связаться **kea-asd@yandex.ru**
 ## Портфолио
 - [Бургеры](https://keaasd.github.io/Module01-Burger/menu.html)
-- 
+- [GYM тренировки](https://keaasd.github.io/Module01-Gym/index.html)
+- [Здоровое Питание](https://keaasd.github.io/module02-Shop/dist/)
+
 <!-- website layout designer -->
