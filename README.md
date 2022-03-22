@@ -4,7 +4,7 @@
 ### Моя страница в [vk](https://vk.com/id248069872)
 ### Со мной можно связаться **kea-asd@yandex.ru**
 ## Портфолио
-- [Бургеры](https://keaasd.github.io/Module01-Burger/menu.html){:target="_blank"}
+- [Бургеры]({:target="_blank"}https://keaasd.github.io/Module01-Burger/menu.html)
 - [GYM тренировки](https://keaasd.github.io/Module01-Gym/index.html)
 - [Здоровое Питание](https://keaasd.github.io/module02-Shop/dist/)
 
