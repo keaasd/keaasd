@@ -1,11 +1,14 @@
-
 <h1 align="center">Hi there, I'm Evgenyi Korotin </h1>
 <h2 align="center">Frontend developer </h2>
 
+### Мои контакты
+<a href="https://vk.com/id248069872" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/Vk-icon.png" height="32"/>id248069872</a> 
+<img src="https://github.com/keaasd/kea/blob/main/images/telegram.png" height="32"/>jonni3
+<img src="https://github.com/keaasd/kea/blob/main/images/email.png" height="32"/>kea-asd@yandex.ru
 
-### Моя страница в [vk](https://vk.com/id248069872)
-### Со мной можно связаться **kea-asd@yandex.ru**
 ## Портфолио
+<a href="https://keaasd.github.io/Module01-Burger/menu.html" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/burger.svg" height="32"/>Бургер-кафе BURGOS</a> 
+
 - [Бургеры](https://keaasd.github.io/Module01-Burger/menu.html)
 - [GYM тренировки](https://keaasd.github.io/Module01-Gym/index.html)
 - [Здоровое Питание](https://keaasd.github.io/module02-Shop/dist/)
@@ -19,9 +22,9 @@ ru
 # 
 <h1 align="center">Привет!👋 Я Евгений Коротин</h1>
 <h2 align="center">Фронтент-разработчик</h2>
+## Портфолио
 
-- <a href="https://keaasd.github.io/Module01-Burger/menu.html" target="_blank">
-<img src="https://github.com/keaasd/kea/blob/main/images/burger.svg" height="32"/></a> 
+##
 
 <!-- <a href="https://github.com/keaasd/kea/blob/main/images/burger.svg" target="_blank"> -->
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></a>  -->
