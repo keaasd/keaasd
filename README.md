@@ -2,12 +2,12 @@
 <h2 align="center">Frontend developer </h2>
 
 ### Мои контакты
-##
-<a href="https://vk.com/id248069872" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/Vk-icon.png" height="16"/>id248069872</a> 
-##
-<img src="https://github.com/keaasd/kea/blob/main/images/telegram.png" height="16"/>jonni3
-##
-<img src="https://github.com/keaasd/kea/blob/main/images/email.png" height="16"/>kea-asd@yandex.ru
+#####
+<a href="https://vk.com/id248069872" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/Vk-icon.png" height="16"/>  id248069872</a> 
+#####
+<img src="https://github.com/keaasd/kea/blob/main/images/telegram.png" height="16"/>  jonni3
+#####
+<img src="https://github.com/keaasd/kea/blob/main/images/email.png" height="16"/> kea-asd@yandex.ru
 
 ## Портфолио
 ####
