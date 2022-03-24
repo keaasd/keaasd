@@ -5,7 +5,7 @@
 ######
 <a href="https://vk.com/id248069872" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/Vk-icon.png" height="16"/>    id248069872</a> 
 ######
-<img src="https://github.com/keaasd/kea/blob/main/images/telegram.png" height="16"/>    t.me/EvgeniKorot
+<img src="https://github.com/keaasd/kea/blob/main/images/telegram.png" height="16"/>    t.me/@EvgeniKorot
 ######
 <img src="https://github.com/keaasd/kea/blob/main/images/email.png" height="16"/>   kea-asd@yandex.ru
 
