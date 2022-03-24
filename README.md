@@ -9,3 +9,7 @@
 - [Здоровое Питание](https://keaasd.github.io/module02-Shop/dist/)
 
 <!-- website layout designer -->
+<h1 align="center">Hi there, I'm Evgenyi Korotin </h1>
+<a href="https://keaasd.github.io/Module01-Gym/" target="_blank">GYM тренировки</a>
+<!-- - [GYM тренировки](https://keaasd.github.io/Module01-Gym/index.html) -->
+<!--   https://habr.com/ru/post/649363/ -->
