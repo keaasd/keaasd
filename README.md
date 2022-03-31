@@ -14,7 +14,7 @@
 <a href="https://keaasd.github.io/Module01-Burger/menu.html" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/burgers.ico" height="16"/>    Бургер-кафе BURGOS</a> 
 #### <a href="https://keaasd.github.io/Module01-Gym/index.html" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/gym.ico" width="16"/>   Фитнес студия GYM </a> 
 #### <a href="https://keaasd.github.io/module02-Shop/dist/" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/healthly-food.ico" height="16"/>    Здоровое питание Healthly food</a> 
-####<a href="https://keaasd.github.io/computer-layout/" target="_blank"><img src="https://raw.githubusercontent.com/keaasd/computer-layout/main/image/favicon/favicon.ico" height="16"/>    Сборка ПК</a> 
+#### <a href="https://keaasd.github.io/computer-layout/" target="_blank"><img src="https://raw.githubusercontent.com/keaasd/computer-layout/main/image/favicon/favicon.ico" height="16"/>    Сборка ПК</a> 
 ####
   
 
@@ -35,7 +35,6 @@
 <a href="https://keaasd.github.io/Module01-Burger/menu.html" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/burgers.ico" height="16"/>    Бургер-кафе BURGOS</a> 
 #### <a href="https://keaasd.github.io/Module01-Gym/index.html" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/gym.ico" width="16"/>   Фитнес студия GYM </a> 
 #### <a href="https://keaasd.github.io/module02-Shop/dist/" target="_blank"><img src="https://github.com/keaasd/kea/blob/main/images/healthly-food.ico" height="16"/>    Здоровое питание Healthly food</a> 
-
-####<a href="https://keaasd.github.io/computer-layout/" target="_blank"><img src="https://raw.githubusercontent.com/keaasd/computer-layout/main/image/favicon/favicon.ico" height="16"/>    Сборка ПК</a> 
+#### <a href="https://keaasd.github.io/computer-layout/" target="_blank"><img src="https://raw.githubusercontent.com/keaasd/computer-layout/main/image/favicon/favicon.ico" height="16"/>    Сборка ПК</a> 
 ####
 <!--   https://habr.com/ru/post/649363/ -->
